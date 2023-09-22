@@ -1,3 +1,3 @@
 # Breno Hildebrand 
 
-Learning the magic of 0's and 1's.
+Have you heard about the magic? The magic of zeros and ones.
