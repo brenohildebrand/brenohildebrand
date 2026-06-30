@@ -9,7 +9,7 @@ engineering, and everything in between, as a one-person studio.
 ## Building
 
 - **Minha Mãe Bilíngue** — a game-like language-learning app. It started as a tool for my mom.
-- **Bard League** — a game-like music-learning app: fretboard, scales, and chords by ear and by hand.
+- **Bard League** — a game-like competitive music-learning app: fretboard, scales, and chords by ear and by hand.
 
 ## How I work
 
